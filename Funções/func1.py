@@ -1,3 +1,5 @@
+#Caio Machado   2BDEV
+
 def boas_vindas(nome, idade):
     if idade > 60:
         print(f"Bem-vindo, {nome}! Você tem prioridade no atendimento.")

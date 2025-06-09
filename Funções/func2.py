@@ -1,3 +1,4 @@
+#Caio Machado   2BDEV
 def media_situacao(nota1, nota2, nota3):
     media = (nota1 + nota2 + nota3) / 3
     if media >= 7:

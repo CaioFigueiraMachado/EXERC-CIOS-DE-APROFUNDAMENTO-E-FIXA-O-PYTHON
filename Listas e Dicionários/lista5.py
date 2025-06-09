@@ -1,3 +1,4 @@
+#Caio Machado   2BDEV
 carrinho = {}
 
 while True:
